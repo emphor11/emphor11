@@ -16,3 +16,13 @@
 [![](https://komarev.com/ghpvc/?username=emphor11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+🏆 Open Source & Community
+
+<a href="https://cloud.layer5.io/user/059e5548-3cab-4cbc-bf90-8ec5860db070?tab=badges&badge=first-design">
+  <img
+    src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
+    alt="Layer5 Design Pioneer — First Design"
+    width="175"
+  />
+</a>
